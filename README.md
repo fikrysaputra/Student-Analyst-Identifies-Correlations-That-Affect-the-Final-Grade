@@ -163,4 +163,4 @@ Heatmap
 
 
 # Conclusion
-In summary, prior grades (G1 and G2) are the most significant predictors of the final grade, while factors like parental education and study time contribute positively, though to a lesser extent. Past failures negatively affect final grades, highlighting the challenges faced by students with a history of academic difficulties.
+In summary, prior grades (G1 and G2) are the most significant predictors of the final grade, while factors like parental education and study time contribute positively, though to a lesser extent. Past failures negatively affect final grades. Age, family relations, and social activities (like going out) have relatively minor correlations with G3. Although these factors do play a role in student life, they are less predictive of final academic outcomes compared to prior grades and study-related variables. The analysis concludes that academic consistency (G1 and G2), parental education, study habits, and minimal past failures are key factors influencing a student's final grade (G3).
